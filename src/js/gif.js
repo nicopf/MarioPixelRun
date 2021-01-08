@@ -4,8 +4,6 @@ window.onload = function () {
 
    setTimeout(function () {
       document.getElementById('d-gif').style.backgroundImage =
-         'url(../src/assets/images/DustLarger.gif?' +
-         new Date().getTime() +
-         ')';
+         'url(../src/assets/images/Dust.gif?' + new Date().getTime() + ')';
    }, 3000);
 };

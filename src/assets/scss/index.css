@@ -14,7 +14,6 @@ body {
    height: 300vh;
    text-align: center;
    background-color: #202020;
-   /* background-image: url('../images/Background.svg'); */
 }
 
 .text-container {
@@ -96,10 +95,6 @@ body {
       opacity: 0;
       transform: translateY(-150px);
    }
-   /* 20% {
-      transform: translateY(-140px);
-      opacity: 1;
-   } */
    100% {
       transform: translateY(-110px);
       opacity: 1;

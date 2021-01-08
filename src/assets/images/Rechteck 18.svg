@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="3180" viewBox="0 0 1920 3180">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.168" r="0.54" gradientTransform="translate(0 0.064) scale(1 0.619)" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#363636" />
+      <stop offset="100%" stop-color="#202020" />
+    </radialGradient>
+  </defs>
+  <rect id="Rechteck_18" data-name="Rechteck 18" class="cls-1" width="1920" height="3180" />
+</svg>
